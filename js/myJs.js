@@ -7,10 +7,10 @@ const textConfig = {
     text6: "Để e suy nghĩ",
     text7: "Ghi suy nghĩ của Bé vào đây nào <3",
     text8: "Send",
-    text9: "Ăn luôn đầu bếp nấu đc ko ",
-    text10: "OK nhé, đã lên thực đơn",
+    text9: "Dùng luôn anh Đầu bếp đẹp trai đc kkhum :D ",
+    text10: "OK nhé, thực đơn của bạn sẽ được chuẩn bị",
     text11:
-      "Chúc bạn thảo cuối tuần ngon miệng",
+      "Chúc bạn Thảo cuối tuần ngon miệng",
     text12: "Okii lunn <3",
   };
   
@@ -113,7 +113,7 @@ const textConfig = {
         html: true,
         width: 900,
         padding: "3em",
-        html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+        html: "<input type='text' class='form-control' id='txtReason'  placeholder='Ăn gì nèoo'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
                       rgba(0,0,123,0.4)
