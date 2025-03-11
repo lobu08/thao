@@ -6,11 +6,11 @@ const textConfig = {
     text5: "Không ăn gì đâu",
     text6: "Để e suy nghĩ",
     text7: "Ghi suy nghĩ của Bé vào đây nào <3",
-    text8: "Menu nhà hàng",
+    text8: "Send",
     text9: "Ăn luôn đầu bếp nấu đc ko ",
-    text10: "OK nhé, lên thực đơn",
+    text10: "OK nhé, đã lên thực đơn",
     text11:
-      "Lấy Ox lun nha Bx :DDDDDDDDDDDDD",
+      "Chúc bạn thảo cuối tuần ngon miệng",
     text12: "Okii lunn <3",
   };
   
