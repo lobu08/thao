@@ -1,6 +1,6 @@
 const textConfig = {
     text1: "Hế luu Bạn Thảo xinh gái!",
-    text2: "Tớ có điều muốn hỏi, Bạn Thảo xinh gái phải trả lời thật lòng nha!!",
+    text2: "Tôi có việc rất quan trọng cần trao đổi với Bạn!!",
     text3: "Cuối tuần bạn muốn ăn gì để đầu bếp nhà hàng 5star chuẩn bị nè !!",
     text4: "Bạn mà ko trả lời mà thoát ra tức là muốn muốn ăn quả đấm nhé <3",
     text5: "Không ăn gì đâu",
